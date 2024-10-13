@@ -56,4 +56,223 @@ color: rgb(255, 255, 255);
 font-family: "Azeret Mono", monospace;
 font-size: 16px;
 text-align: center;
+cursor: pointer;
 }
+/* web development section */
+
+#web-development{
+    height: 1400px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    border: 2px solid red;
+    margin-top: 70px;
+    padding: 80px 100px 80px 100px;
+
+}
+#web-development .web-development-top{
+    text-align: center;
+
+  margin-bottom: 35px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+#web-development .web-development-top h1{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#web-development .web-development-top{
+    font-family: "Azeret Mono", monospace;
+   
+    opacity: 0.7;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+/* development first */
+#web-development .development-first{
+   height: 350px;
+   border-radius: 16px;
+background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+padding: 40px 40px 40px 40px;
+
+display: flex;
+justify-items: center;
+border: 2px solid blue;
+
+
+}
+#web-development .development-first .development-first-text{
+  width: 50%;
+
+  text-align: left;
+  padding-right: 25px;
+}
+#web-development .development-first .development-first-text h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: "Azeret Mono", monospace;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+   
+}
+#web-development .development-first .development-first-text p{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    opacity: 0.7;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    padding-top: 10px ;
+    padding-bottom: 10px;
+   
+}
+#web-development .development-first .development-first-text a button{
+    padding: 8px 20px 8px 20px;
+color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+font-size: 16px;
+font-weight: 600;
+background-color: transparent;
+letter-spacing: 0%;
+text-align: center;
+border: 1px solid rgba(13, 19, 33, 0.7);
+cursor: pointer;
+
+}
+#web-development .development-first .development-first-img{
+ width: 50%;
+ padding-left: 100px;
+}
+#web-development .development-first .development-first-img img{
+ width: 100%;
+}
+/* development second */
+#web-development .development-second{
+    height: 350px;
+    border-radius: 16px;
+background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+border: 2px solid yellow;
+margin-top: 25px;
+margin-bottom: 25px;
+padding: 40px 40px 40px 40px;
+display: flex;
+justify-items: center;
+}
+#web-development .development-second .development-second-img{
+  width: 50%;
+
+  padding-right: 100px;
+}
+#web-development .development-second .development-second-img img{
+  width: 100%;
+}
+#web-development .development-second .development-second-text{
+  width: 50%;
+
+  text-align: left;
+  padding-right: 18px;
+
+}
+
+#web-development .development-second .development-second-text h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: "Azeret Mono", monospace;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+}
+#web-development .development-second .development-second-text p{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    opacity: 0.7;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    padding-top: 16px ;
+    padding-bottom: 32px;
+}
+#web-development .development-second .development-second-text a button{
+    padding: 8px 20px 8px 20px;
+    color: rgb(13, 19, 33);
+        font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: transparent;
+    letter-spacing: 0%;
+    text-align: center;
+    border: 1px solid rgba(13, 19, 33, 0.7);
+    cursor: pointer;
+}
+/* development third */
+#web-development .development-third{
+    height: 350px;
+    border-radius: 16px;
+ background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+ padding: 40px 40px 40px 40px;
+ 
+ display: flex;
+ justify-items: center;
+ border: 2px solid blue;
+ 
+ 
+ }
+ #web-development .development-third .development-third-text{
+   width: 50%;
+ 
+   text-align: left;
+   padding-right: 25px;
+ }
+ #web-development .development-third .development-third-text h3{
+     color: rgba(13, 19, 33, 0.7);
+     font-family: "Azeret Mono", monospace;
+     font-size: 24px;
+     font-weight: 700;
+     line-height: 36px;
+     letter-spacing: 0%;
+    
+ }
+ #web-development .development-third .development-third-text p{
+     color: rgb(13, 19, 33);
+     font-family: "Azeret Mono", monospace;
+     opacity: 0.7;
+     font-size: 14px;
+     font-weight: 400;
+     line-height: 26px;
+     letter-spacing: 0%;
+     padding-top: 10px ;
+     padding-bottom: 10px;
+    
+ }
+ #web-development .development-third .development-third-text a button{
+     padding: 8px 20px 8px 20px;
+ color: rgb(13, 19, 33);
+     font-family: "Azeret Mono", monospace;
+ font-size: 16px;
+ font-weight: 600;
+ background-color: transparent;
+ letter-spacing: 0%;
+ text-align: center;
+ border: 1px solid rgba(13, 19, 33, 0.7);
+ cursor: pointer;
+ 
+ }
+ #web-development .development-third .development-third-img{
+  width: 50%;
+  padding-left: 100px;
+  
+ }
+ #web-development .development-third .development-third-img img{
+width: 100%;
+ }
