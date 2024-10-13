@@ -319,3 +319,98 @@ border: 1px solid rgba(13, 19, 33, 0.2);
 border-radius: 16px;
 
  }
+ /* target section */
+ #target{
+    height: 500px;
+    margin-top: 50px;
+    
+ }
+ #target .target-top{
+   text-align: center;
+   padding-left: 100px;
+   padding-right: 100px;
+   
+ }
+ #target .target-top h2{
+    font-family: "Azeret Mono", monospace;
+
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+ }
+ #target .target-top p{
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 20px;
+ }
+ #target .target-card{
+    margin-top: 45px;
+    display: flex;
+   justify-items: center;
+   gap: 20px;
+ }
+ #target .target-card1 {
+    height: 320px;
+    width: 32%;
+    padding: 30px 30px 30px 30px;
+    border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+ }
+ #target .target-card1 h3, #target .target-card2 h3, #target .target-card3 h3 {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+padding-top: 20px;
+ }
+
+
+#target .target-card1 p, #target .target-card2 p, #target .target-card3 p {
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 18px;
+}
+
+ #target .target-card1  a, #target .target-card2 a, #target .target-card3 a{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+
+ }
+ #target .target-card2{
+    height: 320px;
+    width: 32%;
+    border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+padding: 30px 30px 30px 30px;
+ }
+ #target .target-card3{
+    height: 320px;
+    width: 32%;
+    padding: 30px 30px 30px 30px;
+    border-radius: 16px;
+background: rgba(255, 223, 0, 0.05);
+ }
