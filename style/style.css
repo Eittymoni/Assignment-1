@@ -374,3 +374,98 @@ padding: 30px 30px 30px 30px;
     border-radius: 16px;
 background: rgba(255, 223, 0, 0.05);
  }
+
+ /*  next target section */
+ #next-target{
+    margin-top: 100px;
+    height: 850px;
+  
+ }
+ #next-target .next-target-top{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+
+ }
+ #next-target .next-target-top h2{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+ }
+ #next-target .next-target-top p{
+color: rgb(13, 19, 33);
+opacity: 0.7;
+font-family: "Azeret Mono", monospace;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 20px;
+ }
+ #next-target .next-target-card-main{
+    margin-top: 45px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+ }
+ #next-target .next-target-card-main .next-target-card1, .next-target-card2, .next-target-card3{  
+ height: 220px;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+display: flex;
+justify-items: center;
+justify-content: center;
+padding: 40px 40px 40px 40px;
+
+ }
+ #next-target .next-target-card-main .next-target-card1 .next-card-img , .next-target-card2 .next-card-img,.next-target-card3 .next-card-img{  
+width: 20%;
+
+ }
+
+ #next-target .next-target-card-main .next-target-card1 .next-card-text, .next-target-card2 .next-card-text,.next-target-card3 .next-card-text{  
+width: 80%;
+
+ }
+ #next-target .next-target-card-main .next-target-card1 .next-card-text h3, .next-target-card2 .next-card-text h3, .next-target-card3 .next-card-text h3{  
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+
+ }
+ #next-target .next-target-card-main .next-target-card1 .next-card-text p, .next-target-card2 .next-card-text p, .next-target-card3 .next-card-text p{  
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 18px;
+
+ }
+ #next-target .next-target-card-main .next-target-card1 .next-card-text a, .next-target-card2 .next-card-text a,.next-target-card3 .next-card-text a {  
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+
+ }
+
+
