@@ -64,9 +64,9 @@ cursor: pointer;
     height: 1400px;
     border-radius: 16px;
     background: rgba(13, 19, 33, 0.02);
-    border: 2px solid red;
+   
     margin-top: 70px;
-    padding: 80px 100px 80px 100px;
+    padding: 80px 90px 80px 90px;
 
 }
 #web-development .web-development-top{
@@ -98,14 +98,15 @@ text-align: center;
 }
 /* development first */
 #web-development .development-first{
-   height: 350px;
+   height: 320px;
    border-radius: 16px;
 background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
 padding: 40px 40px 40px 40px;
 
 display: flex;
 justify-items: center;
-border: 2px solid blue;
+
+
 
 
 }
@@ -158,15 +159,16 @@ cursor: pointer;
 }
 /* development second */
 #web-development .development-second{
-    height: 350px;
+    height: 320px;
     border-radius: 16px;
 background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
-border: 2px solid yellow;
+
 margin-top: 25px;
 margin-bottom: 25px;
 padding: 40px 40px 40px 40px;
 display: flex;
 justify-items: center;
+
 }
 #web-development .development-second .development-second-img{
   width: 50%;
@@ -217,14 +219,15 @@ justify-items: center;
 }
 /* development third */
 #web-development .development-third{
-    height: 350px;
+    height: 320px;
     border-radius: 16px;
  background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
  padding: 40px 40px 40px 40px;
  
  display: flex;
  justify-items: center;
- border: 2px solid blue;
+
+
  
  
  }
@@ -275,4 +278,44 @@ justify-items: center;
  }
  #web-development .development-third .development-third-img img{
 width: 100%;
+ }
+ /* inspiration section */
+ #inspiration{
+    height:700px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+   
+ }
+ #inspiration .inspiration-text{
+ padding-bottom: 25px;
+    text-align: center;
+   
+    padding-left: 100px;
+    padding-right: 100px;
+ }
+ #inspiration .inspiration-text h2{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+ }
+ #inspiration .inspiration-text p{
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: "Azeret Mono", monospace;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 20px;
+ }
+ #inspiration .youtube-link{
+ padding: 30px 30px 30px 30px;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+
  }
