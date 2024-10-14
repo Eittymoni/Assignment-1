@@ -475,9 +475,11 @@ text-decoration-line: underline;
     height: 320px;
     border-radius: 16px;
    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), 
-              url('/images/handshake.jpg');
+              url('../images/handshake.jpg');
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
+
   padding: 50px 45px 50px 45px;
   
 }
