@@ -13,7 +13,7 @@
 /* banner section */
 #banner{
     height: 600px;
-    background: url(/images/Hero-bg.png) no-repeat center / cover;
+    background: url(../images/Hero-bg.png) no-repeat center / cover;
 }
 #banner .banner-main{
   text-align: center;
